@@ -31,7 +31,7 @@ lang: id-ID # Set the site language
 email: "hi@ashz.xyz"
 disqus: "ashz" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://www.gravatar.com/avatar/a4adee4ab6f26d519302de965c03e4f1" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
-# google_analytics: ''
+google_analytics: 'UA-132340600-1'
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
